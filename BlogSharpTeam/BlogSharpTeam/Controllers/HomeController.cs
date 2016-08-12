@@ -13,7 +13,7 @@ namespace BlogSharpTeam.Controllers
             return View();
         }
 
-        public ActionResult Fun()
+        public ActionResult FunIndex()
         {
             ViewBag.Message = "Your application description page.";
 
